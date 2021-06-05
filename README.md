@@ -6,7 +6,7 @@ java -jar ebs-final.jar
 
 ### intelij Gradle jar 파일 생성 방법
 
-build.gradle에 추가하기
+build.gradle에 추가하기 => 실행 => 우측 gradle 탭 :bootjar 실행
 ```java
 bootJar{
    archiveBaseName='-'
